@@ -1,0 +1,9 @@
+##[MODE.NAME]
+##	Id=MODEL_ID
+##	Creators=[CREATOR_USER_ID]
+##	Genre=GENRE_ENUM
+
+[bhop.test]
+	Id=3399
+	Creators=[274105]
+	Genre=0
