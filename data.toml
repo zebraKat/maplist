@@ -3,10 +3,6 @@
 ##	Creators=[CREATOR_USER_ID]
 ##	Genre=GENRE_ENUM
 
-[bhop.test]
-	Id=3399
-	Creators=[274105]
-	Genre=0
 [bhop.genesis]
 	Id=3576
 	Creators=[274105]
