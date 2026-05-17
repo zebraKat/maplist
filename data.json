@@ -1,0 +1,43 @@
+{
+	"bhop": {
+		"genesis": {
+			"Id": 3576,
+			"Creators": [
+				274105
+			],
+			"Genre": 0
+		},
+		"lime": {
+			"Id": 4032,
+			"Creators": [
+				274105
+			],
+			"Genre": 0
+		}
+	},
+	"surf": {
+		"genesisv2": {
+			"Id": 3879,
+			"Creators": [
+				274105
+			],
+			"Genre": 0
+		},
+		"I Do Know": {
+			"Id": 3877,
+			"Creators": [
+				274105
+			],
+			"Genre": 0
+		}
+	},
+	"kz": {
+		"umm": {
+			"Id": 3878,
+			"Creators": [
+				274105
+			],
+			"Genre": 0
+		}
+	}
+}
